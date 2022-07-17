@@ -42,14 +42,35 @@ We have also tried to classify foods as low-GI or high-GI based on subsequent cg
   </tr>
 </table>
 3. Multivariate Time Series Prediction using CRNN Model
-<br>
+<table>
+  <tr>
+    <td>Actual</td>
+    <td>Predicted</td>
+  </tr>
+  <tr>
+    <td>
 <img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/MultiVariate-Actual.png" width="100%" height="100%" align="left">
+    </td>
+    <td>
 <img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/MultiVariate-Predicted.png" width="100%" height="100%" align="left">
-<br>
+    </td>
+  </tr>
+</table>
 4. Clustering food as high-GI and low-GI
-<br>
+<table>
+  <tr>
+    <td>Low GI</td>
+    <td>High GI</td>
+  </tr>
+  <tr>
+    <td>
 <img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/Cluster1-LowGI.png" width="100%" height="100%" align="left">
+    </td>
+    <td>
 <img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/Cluster2-HighGI.png" width="100%" height="100%" align="left">
+    </td>
+  </tr>
+</table>
 
 # REFERENCES
 [1]	T. Hamdi et al., “Artificial neural network for blood glucose level prediction,” in 2017 International Conference on Smart, Monitored and Controlled Cities (SM2C), 2017.
