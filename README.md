@@ -34,7 +34,7 @@ We have also tried to classify foods as low-GI or high-GI based on subsequent cg
 <br>
 <img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/Cluster1-LowGI.png" width="100%" height="100%" align="left">
 <img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/Cluster2-HighGI.png" width="100%" height="100%" align="left">
-<br>
+
 # REFERENCES
 [1]	T. Hamdi et al., “Artificial neural network for blood glucose level prediction,” in 2017 International Conference on Smart, Monitored and Controlled Cities (SM2C), 2017.
 
