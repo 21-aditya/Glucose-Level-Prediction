@@ -16,17 +16,24 @@ We have also tried to classify foods as low-GI or high-GI based on subsequent cg
 
 # RESULTS
 1. Univariate Time Series Prediction using ARIMA Model
-<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateTimeSeriesPrediction-ARIMA1.png" width="100%" height="100%" align="left">
-<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateTimeSeriesPrediction-ARIMA2.png" width="100%" height="100%" align="left">
+
+<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateTimeSeriesPrediction-ARIMA1.png" width="75%" height="75%" align="left">
+<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateTimeSeriesPrediction-ARIMA2.png" width="75%" height="75%" align="left">
+
 2. Univariate Time Series Prediction using LSTM Model
-<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateLSTM-Actual.png" width="100%" height="100%" align="left">
-<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateLSTM-Predicted.png" width="100%" height="100%" align="left">
+
+<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateLSTM-Actual.png" width="75%" height="75%" align="left">
+<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateLSTM-Predicted.png" width="75%" height="75%" align="left">
+
 3. Multivariate Time Series Prediction using CRNN Model
-<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/MultiVariate-Actual.png" width="100%" height="100%" align="left">
-<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/MultiVariate-Predicted.png" width="100%" height="100%" align="left">
+
+<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/MultiVariate-Actual.png" width="75%" height="75%" align="left">
+<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/MultiVariate-Predicted.png" width="75%" height="75%" align="left">
+
 4. Clustering food as high-GI and low-GI
-<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/Cluster1-LowGI.png" width="100%" height="100%" align="left">
-<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/Cluster1-HighGI.png" width="100%" height="100%" align="left">
+
+<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/Cluster1-LowGI.png" width="75%" height="75%" align="left">
+<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/Cluster2-HighGI.png" width="75%" height="75%" align="left">
 
 # REFERENCES
 [1]	T. Hamdi et al., “Artificial neural network for blood glucose level prediction,” in 2017 International Conference on Smart, Monitored and Controlled Cities (SM2C), 2017.
