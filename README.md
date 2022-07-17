@@ -14,11 +14,13 @@ Then, for more accurate predictions, several external factors like type of meal,
 
 We have also tried to classify foods as low-GI or high-GI based on subsequent cgm trends after meal intake
 
-# DATASET
+# Dataset
 Name: OhioT1DM Dataset
 It contains 8 weeks worth of data for each of 12 people with type 1 diabetes. These people were all on insulin pump therapy with continuous glucose monitoring (CGM). They provided blood glucose data, insulin data, self-reported life-event data, and data from physiological fitness bands. The dataset includes: a CGM blood glucose level every 5 minutes; blood glucose levels from periodic self-monitoring of blood glucose (finger sticks); insulin doses, both bolus and basal; self-reported meal times with carbohydrate estimates; self-reported times of exercise, sleep, work, stress, and illness; and physiological data from fitness bands.
 
-# RESULTS
+Dataset Link - http://smarthealth.cs.ohio.edu/OhioT1DM-dataset.html
+
+# Results
 1. Univariate Time Series Prediction using ARIMA Model
 <table>
   <tr>
@@ -73,7 +75,7 @@ It contains 8 weeks worth of data for each of 12 people with type 1 diabetes. Th
   </tr>
 </table>
 
-# REFERENCES
+# References
 [1]	T. Hamdi et al., “Artificial neural network for blood glucose level prediction,” in 2017 International Conference on Smart, Monitored and Controlled Cities (SM2C), 2017.
 
 [2]	K. Li, J. Daniels, C. Liu, P. Herrero, and P. Georgiou, “Convolutional recurrent neural networks for glucose prediction,” IEEE J. Biomed. Health Inform., vol. 24, no. 2, pp. 603–613, 2020.
