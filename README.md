@@ -1,3 +1,10 @@
+# Project by
+1. Aditya Ramachandran
+2. Shreya Ananth
+3. Chiran Jeevi MP
+
+From College of Engineering, Guindy, Anna University
+
 # Glucose-Level-Prediction
 Type-1 diabetes is a very common disorder which currently affects a variety of the world’s population, majority being 0-16years of age. It’s an auto-immune disorder in which the beta cells of the pancreas does not produce insulin and have to be given externally with the help of insulin shots.
 
