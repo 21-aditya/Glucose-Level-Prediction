@@ -26,12 +26,21 @@ We have also tried to classify foods as low-GI or high-GI based on subsequent cg
     </td>
   </tr>
 </table>
-<br>
 2. Univariate Time Series Prediction using LSTM Model
-<br>
+<table>
+  <tr>
+    <td>Actual</td>
+    <td>Predicted</td>
+  </tr>
+  <tr>
+    <td>
 <img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateLSTM-Actual.png" width="100%" height="100%" align="left">
+    </td>
+    <td>
 <img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateLSTM-Predicted.png" width="100%" height="100%" align="left">
-<br>
+    </td>
+  </tr>
+</table>
 3. Multivariate Time Series Prediction using CRNN Model
 <br>
 <img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/MultiVariate-Actual.png" width="100%" height="100%" align="left">
