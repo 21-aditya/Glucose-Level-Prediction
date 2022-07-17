@@ -16,6 +16,7 @@ We have also tried to classify foods as low-GI or high-GI based on subsequent cg
 
 # Dataset
 Name: OhioT1DM Dataset
+
 It contains 8 weeks worth of data for each of 12 people with type 1 diabetes. These people were all on insulin pump therapy with continuous glucose monitoring (CGM). They provided blood glucose data, insulin data, self-reported life-event data, and data from physiological fitness bands. The dataset includes: a CGM blood glucose level every 5 minutes; blood glucose levels from periodic self-monitoring of blood glucose (finger sticks); insulin doses, both bolus and basal; self-reported meal times with carbohydrate estimates; self-reported times of exercise, sleep, work, stress, and illness; and physiological data from fitness bands.
 
 Dataset Link - http://smarthealth.cs.ohio.edu/OhioT1DM-dataset.html
