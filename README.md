@@ -19,9 +19,6 @@ We have also tried to classify foods as low-GI or high-GI based on subsequent cg
 <table>
   <tr>
     <td>
-<img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateTimeSeriesPrediction-ARIMA1.png" width="100%" height="100%" align="left">
-    </td>
-    <td>
 <img src="https://github.com/21-aditya/Glucose-Level-Prediction/blob/Computer_Science/Results/UnivariateTimeSeriesPrediction-ARIMA2.png" width="100%" height="100%" align="left">
     </td>
   </tr>
